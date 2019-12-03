@@ -85,7 +85,7 @@ def adding_matz
 
     
     
-    puts matz
+    programmer_hash[:yukihiro_matsumoto]
 
     
 end
