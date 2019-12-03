@@ -86,7 +86,7 @@ def adding_matz
     
     
     matz[:known_for] = "Ruby"
-    matz[:languages] = 
+    matz[:languages] = Array.new
     programmer_hash[:yukihiro_matsumoto][:languages]
 
     
