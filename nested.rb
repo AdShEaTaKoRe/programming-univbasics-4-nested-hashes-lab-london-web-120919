@@ -88,7 +88,8 @@ def adding_matz
     matz[:known_for] = "Ruby"
     languages = matz[:languages]
     matz[:languages] = Array.new
-    languages<< "LISP", "C"
+    languages<< "LISP"
+    languages<< "C"
 
     
     
