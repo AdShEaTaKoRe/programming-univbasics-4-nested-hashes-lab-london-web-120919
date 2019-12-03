@@ -83,7 +83,7 @@ def adding_matz
    programmer_hash[:yukihiro_matsumoto][:languages].push("LISP")
    programmer_hash[:yukihiro_matsumoto][:languages].push("C")
    
-   programmer_hash
+   puts programmer_hash
    
    
    
